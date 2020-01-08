@@ -1,0 +1,16 @@
+C:\Users\Amadeus\source\repos\HealthHerbs\HealthHerbs\bin\Debug\HealthHerbs.exe.config
+C:\Users\Amadeus\source\repos\HealthHerbs\HealthHerbs\bin\Debug\HealthHerbs.exe
+C:\Users\Amadeus\source\repos\HealthHerbs\HealthHerbs\bin\Debug\HealthHerbs.pdb
+C:\Users\Amadeus\source\repos\HealthHerbs\HealthHerbs\bin\Debug\EntityFramework.dll
+C:\Users\Amadeus\source\repos\HealthHerbs\HealthHerbs\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amadeus\source\repos\HealthHerbs\HealthHerbs\bin\Debug\EntityFramework.xml
+C:\Users\Amadeus\source\repos\HealthHerbs\HealthHerbs\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amadeus\source\repos\HealthHerbs\HealthHerbs\obj\Debug\HealthHerbs.csprojAssemblyReference.cache
+C:\Users\Amadeus\source\repos\HealthHerbs\HealthHerbs\obj\Debug\HealthHerbs.Form1.resources
+C:\Users\Amadeus\source\repos\HealthHerbs\HealthHerbs\obj\Debug\HealthHerbs.HerbAddForm.resources
+C:\Users\Amadeus\source\repos\HealthHerbs\HealthHerbs\obj\Debug\HealthHerbs.Properties.Resources.resources
+C:\Users\Amadeus\source\repos\HealthHerbs\HealthHerbs\obj\Debug\HealthHerbs.csproj.GenerateResource.cache
+C:\Users\Amadeus\source\repos\HealthHerbs\HealthHerbs\obj\Debug\HealthHerbs.csproj.CoreCompileInputs.cache
+C:\Users\Amadeus\source\repos\HealthHerbs\HealthHerbs\obj\Debug\HealthHerbs.csproj.CopyComplete
+C:\Users\Amadeus\source\repos\HealthHerbs\HealthHerbs\obj\Debug\HealthHerbs.exe
+C:\Users\Amadeus\source\repos\HealthHerbs\HealthHerbs\obj\Debug\HealthHerbs.pdb
